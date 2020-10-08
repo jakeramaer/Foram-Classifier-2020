@@ -1,3 +1,31 @@
 # Foram-Classifier-2020
 
-Images from - http://endlessforams.org
+Dataset - http://endlessforams.org
+
+## Abstract
+
+This thesis applies current deep learning practices to the classifcation of small-scale, single-
+celled organisms named planktonic foraminifera. We show that our suggested setup outperforms
+the published state-of-the art in the domain [1] by 3.14% when training on a manually labelled
+reference dataset consisting of 34,640 foram samples across 35 separate planktonic foraminiferal
+species. This particular dataset is currently subject to major class imbalance, with the most
+abundant species consisting of nearly 1500% more samples than the least abundant species.
+Over the last few years, a variety of machine learning methods have provided several sig-
+nicant accuracy improvements in regards to the class imbalance problem. In this paper, our
+focus was on designing and evaluating new image classication strategies for this specic classi-
+cation task, using current state-of-the-art deep-learning methods. This included rigorous data
+augmentation, tests with various loss functions [2] and selective attention models [3]. We cross-
+validate our results to reach a nal validation accuracy of 90.55%. The baseline convolutional
+neural networks we compare against are publicly available on endlessforams.org [1], where the
+best baseline network reached a top validation accuracy of 87.41%.
+
+[1] - 
+[2] - 
+[3] -
+
+## Key Features
+
+
+## Setup
+
+
