@@ -4,6 +4,8 @@ Dataset - http://endlessforams.org
 
 ## Abstract
 
+![Foram collection](https://github.com/jakeramaer/Foram-Classifier-2020/blob/main/9F0E3A56-A450-4AF4-8D4A-612E69FD6FFC.jpeg)
+
 This thesis applies current deep learning practices to the classification of small-scale, single-celled organisms named planktonic foraminifera. We show that our suggested setup outperforms
 the published state-of-the art in the domain [1] by 3.14% when training on a manually labelled
 reference dataset consisting of 34,640 foram samples across 35 separate planktonic foraminiferal
