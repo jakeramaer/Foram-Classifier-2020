@@ -1,6 +1,7 @@
 # Foram-Classifier-2020
 
 Dataset - http://endlessforams.org
+
 Colab classifier - https://colab.research.google.com/drive/1gRKUHKsyG-pa5VKAaV2bSaYBI2cm0NSH?usp=sharing
 
 ## Abstract
@@ -22,8 +23,13 @@ best baseline network reached a top validation accuracy of 87.41%.
 Full thesis - <a href="https://github.com/jakeramaer/Foram-Classifier-2020/blob/main/On_the_Classification_of_Planktonic_Foraminifera_2020-signed.pdf">On the Classification of Planktonic Foraminifera_2020</a>
 
 ## Key Features
+* Replication of the reference model to test and validate the results obtained in <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019PA003612">[1]</a>.
+* Conversion of state-of-the-art VGG16 architecture for usage as a pre-trained model within general geological taxonomy.
+* Background on the foundations of machine learning and convolutional networks for the benefit of geologists interested in using and further developing the foram model.
 
 
 ## Setup
-Model is run via google colab, which is accessible via the jupyter file or <a href="https://colab.research.google.com/drive/1gRKUHKsyG-pa5VKAaV2bSaYBI2cm0NSH?usp=sharing">here</a>. Dataset
+Model is run via google colab, which is accessible via the jupyter file or <a href="https://colab.research.google.com/drive/1gRKUHKsyG-pa5VKAaV2bSaYBI2cm0NSH?usp=sharing">here</a>. Dataset downloaded <a href="http://endlessforams.org">here</a>. 
+
+Instructions for data-preprocessing listed on jupyter file.
 
