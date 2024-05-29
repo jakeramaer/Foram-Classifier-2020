@@ -2,7 +2,8 @@
 
 Dataset - http://endlessforams.org
 
-Colab classifier - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakeramaer/Foram-Classifier-2020/blob/main/Classifier.ipynb)
+<a href="https://colab.research.google.com/github/jakeramaer/Foram-Classifier-2020/blob/main/Classifier.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 ## Abstract
 
