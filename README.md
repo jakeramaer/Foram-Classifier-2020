@@ -2,7 +2,7 @@
 
 Dataset - http://endlessforams.org
 
-Colab classifier - https://colab.research.google.com/drive/1gRKUHKsyG-pa5VKAaV2bSaYBI2cm0NSH?usp=sharing
+Colab classifier - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakeramaer/Foram-Classifier-2020/blob/main/Classifier.ipynb)
 
 ## Abstract
 
