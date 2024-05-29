@@ -1,9 +1,6 @@
-# Foram-Classifier-2020
-
-Dataset - http://endlessforams.org
+# Planktonic Foraminifera (snail) Classifier
 
 <a href="https://colab.research.google.com/github/jakeramaer/Foram-Classifier-2020/blob/main/Classifier.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 
 ## Abstract
 
@@ -34,3 +31,5 @@ Model is run via google colab, which is accessible via the jupyter file or <a hr
 
 Instructions for data-preprocessing listed on jupyter file.
 
+## Developments
+Following graduation, this method was built upon using deep metric learning. Co-authored paper [Visual Microfossil Identification via Deep Metric Learning](https://arxiv.org/abs/2112.09490) accepted for ICPRAI 2022 publication with the potential to act as a pre-trained model within general taxonomy, providing practical innovation towards climate change research.
