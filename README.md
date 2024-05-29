@@ -4,7 +4,7 @@
 
 ## Abstract
 
-<img src="https://github.com/jakeramaer/Foram-Classifier-2020/blob/main/9F0E3A56-A450-4AF4-8D4A-612E69FD6FFC.jpeg" width="600">
+<img src="/resources/forams.jpeg" width="600">
 
 
 This thesis applies current deep learning practices to the classification of small-scale, single-celled organisms named planktonic foraminifera. We show that our suggested setup outperforms
